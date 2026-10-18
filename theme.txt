@@ -1,1 +1,3 @@
-App Theme: Dark Mode
+App Theme: Auto (User Preference: Dark or Light)
+
+
