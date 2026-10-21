@@ -349,3 +349,4 @@ Local Feature Branch  -->  git push  -->  GitHub Feature Branch  -->  Create Pul
 - [ ] `git pull` & `git fetch`
 - [ ] Pull Requests on GitHub
 ## Verified Production Notes
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
